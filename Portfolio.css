@@ -6,6 +6,14 @@
   margin-left: auto;
 }
 
+.navbar-brand {
+  background-color: rgba(153, 196, 245, 0.884);
+}
+
+.navbar-light .navbar-brand  {
+  color: white;
+}
+
 .bg {
   background-image: url("dan-maisey-uD-rUHU-1OQ-unsplash.jpg");
   background-color: lightblue;
