@@ -9,7 +9,7 @@
 .bg {
   background-image: url("dan-maisey-uD-rUHU-1OQ-unsplash.jpg");
   background-color: lightblue;
-  height: 1000px;
+  height: 1350px;
   width: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -22,7 +22,7 @@
 } 
 
 .col-md-8 {
-  background-color: rgba(176, 196, 222, 0.7);
+  background-color: rgba(219, 226, 235, 0.8);
   margin-right: 50px;
 }
 
@@ -32,7 +32,7 @@
 
 div .header {
   text-decoration-line: underline;
-  margin-bottom: 10px;
+  margin-bottom: 40px;
 }
 
 #headshot {
@@ -44,7 +44,7 @@ div .header {
 }
 
 p {
-  color: rgb(22, 41, 56);
+  color: rgb(13, 34, 51);
   text-align: justify;
   font-size: 18px;
   font-weight: bolder;

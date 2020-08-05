@@ -5,3 +5,31 @@
 .navbar-right {
   margin-left: auto;
 }
+
+.bg {
+  background-image: url("dan-maisey-uD-rUHU-1OQ-unsplash.jpg");
+  background-color: lightblue;
+  height: 1350px;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+}
+
+.container {
+  margin-top: 150px;
+  margin-left: 250px;
+  margin-right: 500px;
+  margin-bottom: 500px;
+}
+
+div .row {
+  background-color: rgba(219, 226, 235, 0.8);
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+col-lg-9 {
+  margin-bottom: 40px;
+}
