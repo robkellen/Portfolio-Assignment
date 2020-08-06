@@ -27,17 +27,14 @@
 
 .container {
   margin-top: 150px;
-  margin-left: 250px;
-  margin-right: 500px;
-  margin-bottom: 500px;
 }
 
 div .row {
-  background-color: rgba(219, 226, 235, 0.8);
   padding-top: 20px;
   padding-bottom: 20px;
 }
 
-col-lg-9 {
+.col-md-8 {
+  background-color: rgba(219, 226, 235, 0.8);
   margin-bottom: 40px;
 }
