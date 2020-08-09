@@ -1,19 +1,19 @@
 * {
   box-sizing: border-box;
 }
-
+/*shifting page links to the right of the navbar*/
 .navbar-right {
   margin-left: auto;
 }
-
+/*Making background behind my name in navbar blue*/
 .navbar-brand {
   background-color: rgba(153, 196, 245, 0.884);
 }
-
+/*making my name font color white in nav bar*/
 .navbar-light .navbar-brand  {
   color: white;
 }
-
+/*Setting background image for page*/
 .bg {
   background-image: url("dan-maisey-uD-rUHU-1OQ-unsplash.jpg");
   background-color: lightblue;
@@ -28,7 +28,7 @@
 .container {
   margin-top: 150px;
 }
-
+/*setting background color and opacity for About Me section*/
 .col-md-8  {
   background-color: rgba(219, 226, 235, 0.8);
   margin-right: 50px;
@@ -41,7 +41,7 @@
 div .header {
   margin-bottom: 20px;
 }
-
+/*Setting position of headshot image*/
 #headshot {
   width: 175px;
   height: auto;
@@ -49,7 +49,7 @@ div .header {
   margin-right: 20px;
   margin-bottom: 5px;
 }
-
+/*Setting style and alignment of bio to wrap around image*/
 p {
   color: rgb(13, 34, 51);
   text-align: justify;
@@ -60,7 +60,7 @@ p {
 #sticky-footer {
   flex-shrink: 0;
 }
-
+/*centering text and icons in footer*/
 .text-center {
   margin-top: 0;
   padding-right: 10px;
