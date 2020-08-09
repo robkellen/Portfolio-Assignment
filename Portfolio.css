@@ -50,3 +50,12 @@ div img {
   height: 350px;
   width: 350px;
 }
+
+#sticky-footer {
+  flex-shrink: 0;
+}
+
+.text-center {
+  margin-top: 0;
+  padding-right: 10px;
+}
