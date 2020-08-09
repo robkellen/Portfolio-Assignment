@@ -56,3 +56,12 @@ p {
   font-size: 18px;
   font-weight: bolder;
 }
+
+#sticky-footer {
+  flex-shrink: 0;
+}
+
+.text-center {
+  margin-top: 0;
+  padding-right: 10px;
+}
